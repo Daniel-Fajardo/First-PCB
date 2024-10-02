@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DS1722")(type "KiCad")(uri "${KIPRJMOD}/DS1722.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_01x08")(type "KiCad")(uri "${KIPRJMOD}/Conn_01x08.kicad_sym")(options "")(descr ""))
+)
